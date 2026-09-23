@@ -1,3 +1,5 @@
+> steps applied 2026-09-26 to fix nvidia build with kernel 7.2
+ 
 # Debian Forky — NVIDIA 550 DKMS vs Linux 7.2 Compatibility Fix
 
 ## Situation
