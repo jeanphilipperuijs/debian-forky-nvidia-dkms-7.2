@@ -1,5 +1,3 @@
-Absolutely. Here is a self-contained runbook you can keep as the future reference for this exact Debian Forky/NVIDIA/DKMS issue.
-
 # Debian Forky — NVIDIA 550 DKMS vs Linux 7.2 Compatibility Fix
 
 ## Situation
